@@ -22,4 +22,4 @@ Stack used to develope this SPA app:
 * Mongodb
 
 1. Register a user or login with your user
-2. Add, update or delete events
+2. Add, update or delete events from the calendar
